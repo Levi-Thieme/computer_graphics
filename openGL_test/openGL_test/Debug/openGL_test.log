@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  main.c
+c:\users\signo\documents\visual studio 2015\projects\opengl_test\opengl_test\main.c : fatal error C1853: 'Debug\openGL_test.pch' precompiled header file is from a previous version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
