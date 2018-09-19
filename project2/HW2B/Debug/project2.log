@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+  my_io.cpp
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(707): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(730): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  mainB.cpp
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(707): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(730): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mainb.cpp(11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mainb.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mainb.cpp(143): warning C4018: '<': signed/unsigned mismatch
+  project2.vcxproj -> C:\Users\signo\Documents\Visual Studio 2015\Projects\project2\Debug\HW2B.exe
+  project2.vcxproj -> C:\Users\signo\Documents\Visual Studio 2015\Projects\project2\Debug\HW2B.pdb (Full PDB)

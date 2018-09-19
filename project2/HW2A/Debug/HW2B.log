@@ -1,0 +1,54 @@
+﻿  vertices.cpp
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(707): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(730): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\vertices.cpp(72): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\vertices.cpp(73): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\vertices.cpp(75): warning C4305: 'argument': truncation from 'int' to 'const GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\vertices.cpp(76): warning C4305: 'argument': truncation from 'int' to 'const GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\vertices.cpp(77): warning C4305: 'argument': truncation from 'int' to 'const GLfloat'
+  transformations.cpp
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(707): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(730): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  main.cpp
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(707): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(730): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\main.cpp(11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\main.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\main.cpp(176): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  polygon.cpp
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(707): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(730): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+c:\users\signo\documents\visual studio 2015\projects\project2\project2\polygon.cpp(58): warning C4715: 'init_polygons': not all control paths return a value
+main.obj : error LNK2019: unresolved external symbol __imp__glewInit@0 referenced in function _main
+main.obj : error LNK2001: unresolved external symbol __imp____glewBindBuffer
+main.obj : error LNK2001: unresolved external symbol __imp____glewBufferData
+main.obj : error LNK2001: unresolved external symbol __imp____glewDeleteBuffers
+main.obj : error LNK2001: unresolved external symbol __imp____glewGenBuffers
+C:\Users\signo\Documents\Visual Studio 2015\Projects\project2\Debug\HW2B.exe : fatal error LNK1120: 5 unresolved externals
