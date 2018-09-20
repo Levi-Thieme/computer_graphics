@@ -32,7 +32,7 @@ void other_init() {
 	glClearColor(1.0, 1.0, 1.0, 1.0);
 	glMatrixMode(GL_PROJECTION);
 	glLoadIdentity();
-	glOrtho(-1.2, 1.2, 1.2, -1.2, -1.0, 1.0);
+	glOrtho(-1.2, 1.2, -1.2, 1.2, -1.0, 1.0);
 	glViewport(0, 0, VIEWPORT_HEIGHT, VIEWPORT_WIDTH);
 	glMatrixMode(GL_MODELVIEW);
 	glLoadIdentity();
@@ -41,6 +41,7 @@ void other_init() {
 void draw_vertices(GLenum e, vec3 *vertices, int start, int end) {
 	glBegin(e);
 	for (int i = start; i < end; i++) {
+		glColor3fv(vertices[i]);
 		vec3 *v = &(vertices[i]);
 		glVertex3f(v->x, v->y, v->z);
 	}
@@ -52,7 +53,6 @@ Display function to be used in glutMainLoop().
 */
 void display(void) {
 	glClear(GL_COLOR_BUFFER_BIT);
-	glColor3f(0.0, 1.0, 1.0);
 	glLineWidth(1.0);
 	int last_jump = 0, current_jump = 0;
 	//Draw all vertices up to the last jump.
@@ -129,9 +129,6 @@ int main(int argc, char **argv) {
 
 	//Normalize the vertices to -1.0 to 1.0
 	normalize_vecs3(points, point_count, &max, &min);
-
-	//Flip along x-axis
-	flip_y(points, point_count);
 
 	//Initialize windows and display image
 	init_window(argc, argv);

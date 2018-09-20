@@ -36,7 +36,7 @@ void other_init() {
 	glClearColor(1.0, 1.0, 1.0, 1.0);
 	glMatrixMode(GL_PROJECTION);
 	glLoadIdentity();
-	glOrtho(-1.2, 1.2, 1.2, -1.2, -1.0, 1.0);
+	glOrtho(-1.2, 1.2, -1.2, 1.2, -1.0, 1.0);
 	glViewport(0, 0, VIEWPORT_HEIGHT, VIEWPORT_WIDTH);
 	glMatrixMode(GL_MODELVIEW);
 	glLoadIdentity();
@@ -90,6 +90,9 @@ void display(void) {
 	glutPostRedisplay();
 }
 
+/*
+Handles reshaping of the window.
+*/
 void reshape(int width, int height) {
 	glMatrixMode(GL_PROJECTION);
 	glLoadIdentity();
@@ -152,8 +155,6 @@ int main(int argc, char **argv) {
 	find_largest_x_y_z(destination_points, point_count, &max);
 	//Normalize the vertices to -1.0 to 1.0
 	normalize_vecs3(destination_points, point_count, &max, &min);
-	//Flip along x-axis
-	flip_y(src_points, point_count);
 
 	//Get random src points
 	generate_random_normalized_vertices(src_points, point_count);
