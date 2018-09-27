@@ -9,12 +9,12 @@ c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\
 c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\mat.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
 c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
 c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\vertices.cpp(73): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
-c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\vertices.cpp(74): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
-c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\vertices.cpp(75): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
-c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\vertices.cpp(76): warning C4305: 'argument': truncation from 'int' to 'const GLfloat'
-c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\vertices.cpp(77): warning C4305: 'argument': truncation from 'int' to 'const GLfloat'
-c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\vertices.cpp(78): warning C4305: 'argument': truncation from 'int' to 'const GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\vertices.cpp(70): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\vertices.cpp(71): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\vertices.cpp(72): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\vertices.cpp(73): warning C4305: 'argument': truncation from 'int' to 'const GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\vertices.cpp(74): warning C4305: 'argument': truncation from 'int' to 'const GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\vertices.cpp(75): warning C4305: 'argument': truncation from 'int' to 'const GLfloat'
   transformations.cpp
 c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
 c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\mat.h(707): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
@@ -43,8 +43,9 @@ c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\
 c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
 c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
 c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\maina.cpp(11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\maina.cpp(62): warning C4018: '<': signed/unsigned mismatch
-c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\maina.cpp(119): warning C4018: '<': signed/unsigned mismatch
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\maina.cpp(45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\maina.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project2\project2\maina.cpp(120): warning C4018: '<': signed/unsigned mismatch
   Generating Code...
   HW2A.vcxproj -> C:\Users\signo\Documents\Visual Studio 2015\Projects\computer_graphics\project2\Debug\HW2A.exe
   HW2A.vcxproj -> C:\Users\signo\Documents\Visual Studio 2015\Projects\computer_graphics\project2\Debug\HW2A.pdb (Full PDB)

@@ -148,13 +148,13 @@ int main(int argc, char **argv) {
 		destination_points[i] = *(vec3_vector.at(i));
 	}
 
-	//create and initialize min & max vectors
-	vec3 min(0, 0, 0);
-	find_minimum_x_y_z(destination_points, point_count, &min);
+	//Find absolute largest values for normalization from -1.0 to 1.0
 	vec3 max(0, 0, 0);
 	find_largest_x_y_z(destination_points, point_count, &max);
+
+
 	//Normalize the vertices to -1.0 to 1.0
-	normalize_vecs3(destination_points, point_count, &max, &min);
+	normalize_vecs3(destination_points, point_count, &max);
 
 	//Get random src points
 	generate_random_normalized_vertices(src_points, point_count);
@@ -171,7 +171,7 @@ int main(int argc, char **argv) {
 	init_window(argc, argv);
 	other_init();
 	glewInit();
-	glutReshapeFunc(reshape);
+	//glutReshapeFunc(reshape);
 	glutDisplayFunc(display);
 	glutMainLoop();
 	system("pause");

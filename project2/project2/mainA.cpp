@@ -41,7 +41,8 @@ void other_init() {
 void draw_vertices(GLenum e, vec3 *vertices, int start, int end) {
 	glBegin(e);
 	for (int i = start; i < end; i++) {
-		glColor3fv(vertices[i]);
+		//glColor3fv(vertices[i]);
+		glColor3f(0, .7, .7);
 		vec3 *v = &(vertices[i]);
 		glVertex3f(v->x, v->y, v->z);
 	}
@@ -121,14 +122,13 @@ int main(int argc, char **argv) {
 		points[i] = *(vec3_vector.at(i));
 	}
 
-	//create and initialize min & max vectors
-	vec3 min(0, 0, 0);
-	find_minimum_x_y_z(points, point_count, &min);
+	//Find absolute largest values for normalization from -1.0 to 1.0
 	vec3 max(0, 0, 0);
 	find_largest_x_y_z(points, point_count, &max);
 
+
 	//Normalize the vertices to -1.0 to 1.0
-	normalize_vecs3(points, point_count, &max, &min);
+	normalize_vecs3(points, point_count, &max);
 
 	//Initialize windows and display image
 	init_window(argc, argv);

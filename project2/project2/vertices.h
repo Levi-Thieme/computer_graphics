@@ -30,7 +30,7 @@ vec - the vector to normalize
 max - vector containing maximum values
 min - vector containing minimum values
 */
-void normalize_vec3(vec3 *vec, const vec3 *max, const vec3 *min);
+void normalize_vec3(vec3 *vec, const vec3 *max);
 
 /*
 Normalizes all vec3's in vecs.
@@ -38,7 +38,7 @@ count - the number of vec3's contained in vecs.
 max - vector containing maximum values
 min - vector containing minimum values
 */
-void normalize_vecs3(vec3 *vecs, const int count, const vec3 *max, const vec3 *min);
+void normalize_vecs3(vec3 *vecs, const int count, const vec3 *max);
 
 /*
 Changes 0's to 1's for normalization

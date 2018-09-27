@@ -9,9 +9,9 @@ max - vector to store maximum points.
 */
 void find_largest_x_y_z(vec3 *vecs, int count, vec3 *max) {
 	for (int i = 0; i < count; i++) {
-		max->x = std::max(max->x, vecs[i].x);
-		max->y = std::max(max->y, vecs[i].y);
-		max->z = std::max(max->z, vecs[i].z);
+		max->x = std::max(max->x, std::abs(vecs[i].x));
+		max->y = std::max(max->y, std::abs(vecs[i].y));
+		max->z = std::max(max->z, std::abs(vecs[i].z));
 	}
 }
 
@@ -34,13 +34,10 @@ vec - the vector to normalize
 max - vector containing maximum values
 min - vector containing minimum values
 */
-void normalize_vec3(vec3 *vec, const vec3 *max, const vec3 *min) {
+void normalize_vec3(vec3 *vec, const vec3 *max) {
 	for (int i = 0; i < 3; i++) {
-		if ((*max)[i] != 0 && (*vec)[i] >= 0) {
+		if ((*max)[i] != 0) {
 			(*vec)[i] = ((*vec)[i] / (*max)[i]);
-		}
-		else if ((*min)[i] != 0) {
-			(*vec)[i] = -((*vec)[i] / (*min)[i]);
 		}
 	}
 }
@@ -51,9 +48,9 @@ count - the number of vec3's contained in vecs.
 max - vector containing maximum values
 min - vector containing minimum values
 */
-void normalize_vecs3(vec3 *vecs, const int count, const vec3 *max, const vec3 *min) {
+void normalize_vecs3(vec3 *vecs, const int count, const vec3 *max) {
 	for (int i = 0; i < count; i++) {
-		normalize_vec3(&(vecs[i]), max, min);
+		normalize_vec3(&(vecs[i]), max);
 	}
 }
 
