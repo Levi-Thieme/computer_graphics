@@ -1,0 +1,29 @@
+﻿  main.cpp
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\mat.h(707): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\mat.h(730): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\mat.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\main.cpp(11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\main.cpp(37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\main.cpp(86): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\main.cpp(93): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\main.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\main.cpp(153): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\main.cpp(154): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\main.cpp(155): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\main.cpp(158): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\main.cpp(160): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\main.cpp(162): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\main.cpp(175): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\main.cpp(182): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\main.cpp(189): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\main.cpp(196): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\main.cpp(243): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\main.cpp(311): warning C4018: '<': signed/unsigned mismatch
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\project3\project3\main.cpp(338): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Project3.vcxproj -> C:\Users\signo\Documents\Visual Studio 2015\Projects\computer_graphics\Project3\Debug\Prj3.exe
+  Project3.vcxproj -> C:\Users\signo\Documents\Visual Studio 2015\Projects\computer_graphics\Project3\Debug\Prj3.pdb (Full PDB)

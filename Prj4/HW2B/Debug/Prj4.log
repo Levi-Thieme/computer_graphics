@@ -1,0 +1,104 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+  vertices.cpp
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(707): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(730): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\vertices.cpp(137): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\vertices.cpp(138): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\vertices.cpp(139): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\vertices.cpp(140): warning C4305: 'argument': truncation from 'int' to 'const GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\vertices.cpp(141): warning C4305: 'argument': truncation from 'int' to 'const GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\vertices.cpp(142): warning C4305: 'argument': truncation from 'int' to 'const GLfloat'
+  transformations.cpp
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(707): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(730): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\transformations.cpp(183): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\transformations.cpp(199): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\transformations.cpp(216): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  projection.cpp
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(707): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(730): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  my_io.cpp
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(707): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(730): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  main.cpp
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(707): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(730): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(102): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(113): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(138): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(154): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(155): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(156): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(209): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(210): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(253): warning C4018: '<': signed/unsigned mismatch
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(392): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(393): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(394): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(402): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(404): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(406): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(426): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(429): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(430): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(435): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(438): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(439): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(449): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(450): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(451): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(465): warning C4244: '=': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(468): warning C4244: '=': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(478): warning C4244: '=': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(486): warning C4244: '=': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(489): warning C4244: '=': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(499): warning C4244: '=': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(522): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(533): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(534): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(556): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(579): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(600): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(619): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(686): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(733): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(739): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(771): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(780): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(809): warning C4018: '<': signed/unsigned mismatch
+c:\users\signo\documents\visual studio 2015\projects\prj4\prj4\main.cpp(835): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Generating Code...
+  Prj4.vcxproj -> C:\Users\signo\Documents\Visual Studio 2015\Projects\Prj4\Debug\Prj4.exe
+  Prj4.vcxproj -> C:\Users\signo\Documents\Visual Studio 2015\Projects\Prj4\Debug\Prj4.pdb (Full PDB)
