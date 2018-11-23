@@ -1,2 +1,26 @@
-﻿  Proj5.vcxproj -> c:\Users\signo\documents\visual studio 2015\Projects\Proj5\Debug\Proj5.exe
-  Proj5.vcxproj -> c:\Users\signo\documents\visual studio 2015\Projects\Proj5\Debug\Proj5.pdb (Full PDB)
+﻿  main.cpp
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\proj5\proj5\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\proj5\proj5\main.cpp(18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\proj5\proj5\main.cpp(45): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\proj5\proj5\main.cpp(45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\proj5\proj5\main.cpp(46): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\proj5\proj5\main.cpp(46): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\proj5\proj5\main.cpp(47): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\proj5\proj5\main.cpp(47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\proj5\proj5\main.cpp(48): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\proj5\proj5\main.cpp(48): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\proj5\proj5\main.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\proj5\proj5\main.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\proj5\proj5\main.cpp(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\proj5\proj5\main.cpp(188): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\proj5\proj5\main.cpp(189): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\proj5\proj5\main.cpp(294): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\proj5\proj5\main.cpp(297): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\proj5\proj5\main.cpp(303): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\proj5\proj5\main.cpp(304): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\proj5\proj5\main.cpp(307): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\proj5\proj5\main.cpp(308): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\proj5\proj5\main.cpp(315): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\signo\documents\visual studio 2015\projects\computer_graphics\proj5\proj5\main.cpp(318): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Proj5.vcxproj -> C:\Users\signo\Documents\Visual Studio 2015\Projects\computer_graphics\Proj5\Debug\Proj5.exe
+  Proj5.vcxproj -> C:\Users\signo\Documents\Visual Studio 2015\Projects\computer_graphics\Proj5\Debug\Proj5.pdb (Full PDB)

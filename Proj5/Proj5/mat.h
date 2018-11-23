@@ -18,7 +18,7 @@ namespace Angel {
 
 class mat2 {
 
-    vec2  _m[2];
+    vec2 _m[2];
 
    public:
     //

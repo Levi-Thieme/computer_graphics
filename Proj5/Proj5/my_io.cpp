@@ -21,16 +21,17 @@ solicitation - the message to be used in asking the user for a filename.
 error_mesg - the message to be displayed if an invalid name is entered.
 Returns an ifstream for the given file.
 */
-ifstream solicit_file(string solicitation, string error_msg) {
+ifstream solicit_file(string path, string solicitation, string error_msg, string &name) {
 	cout << "Enter a filename.\n";
 	string file_name;
 	cin >> file_name;
-	ifstream input_stream(file_name);
+	ifstream input_stream(path + file_name);
 	if (!input_stream) {
 		cout << "File not found.\n";
 		system("pause");
 		exit(1);
 	}
+	name = file_name;
 	return input_stream;
 }
 

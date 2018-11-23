@@ -27,7 +27,7 @@ solicitation - the message to be used in asking the user for a filename.
 error_mesg - the message to be displayed if an invalid name is entered.
 Returns an ifstream for the given file.
 */
-std::ifstream solicit_file(string solicitation, string error_mesg);
+std::ifstream solicit_file(string path, string solicitation, string error_mesg, string &name);
 
 /*
 * This method parses a line to retrieve vertex coordinates
