@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\signo\documents\visual studio 2015\projects\opengl_window\opengl_window\main.cpp(61): warning C4715: 'initGlad': not all control paths return a value
+  openGL_window.vcxproj -> c:\users\signo\documents\visual studio 2015\Projects\openGL_window\Debug\openGL_window.exe
+  openGL_window.vcxproj -> c:\users\signo\documents\visual studio 2015\Projects\openGL_window\Debug\openGL_window.pdb (Partial PDB)

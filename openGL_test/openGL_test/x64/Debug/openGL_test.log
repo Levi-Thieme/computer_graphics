@@ -1,5 +1,0 @@
-﻿  stdafx.cpp
-  main.c
-c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\gl\freeglut_std.h(627): warning C4505: 'glutCreateMenu_ATEXIT_HACK': unreferenced local function has been removed
-  openGL_test.vcxproj -> C:\Users\signo\Documents\Visual Studio 2015\Projects\openGL_test\x64\Debug\openGL_test.exe
-  openGL_test.vcxproj -> C:\Users\signo\Documents\Visual Studio 2015\Projects\openGL_test\x64\Debug\openGL_test.pdb (Full PDB)
